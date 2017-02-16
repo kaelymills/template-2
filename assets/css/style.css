@@ -154,3 +154,13 @@ h1, h2, h3, h5 {
 #aboutparagraph {
   font-size: medium;
 }
+
+
+@media only screen and (max-width: 500px) {
+  .navbar-collapse {
+    background-color: #0f0f0f;
+    margin-top: 18px;
+    text-align: right;
+  }
+}
+
