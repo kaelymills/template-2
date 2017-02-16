@@ -136,8 +136,7 @@ code {
 #nav-contact {
   margin-top: 15px;
 }
-
-#learnmore {
+ .btn {
   font-family: 'Tenor Sans', sans-serif;
 }
 #summary1 {
@@ -150,4 +149,8 @@ p, h4 {
 
 h1, h2, h3, h5 {
   font-family: 'Archivo Black', sans-serif;
+}
+
+#aboutparagraph {
+  font-size: medium;
 }
