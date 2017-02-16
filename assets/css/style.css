@@ -12,6 +12,8 @@ body {
 
 .callus {
   background-color: #fff;
+  font-family: 'Tenor Sans', sans-serif;
+
 }
 
 .phone {
@@ -20,10 +22,23 @@ body {
   margin-right: 90px;
  }
 
- .jumbotron {
-  margin-top: 50px;
-  height: 400px;
- }
+#jumbotron {
+  height: 800px;
+  background-image: url("../images/seo1.jpg");
+  background-size: cover;
+  color: white;
+}
+
+#jumbotext {
+  margin-top: 150px;
+}
+
+#jumbotron2 {
+  height: 200px;
+  background-color: #5cb85c;
+  color: white;
+;
+}
 
 #about {
   padding-top: 50px;
@@ -75,6 +90,64 @@ textarea {
   padding-left: 15px;
 }
 
+
 code {
   font-size: 80%;
+}
+
+#logo1 {
+  height: 50px;
+  width: 200px;
+  /*margin-top: 0;*/
+}
+
+.navbar {
+  margin-bottom: 0;
+  height: 115px;
+  background-color: #0f0f0f;
+  border-color: #0f0f0f;
+  font-family: 'Tenor Sans', sans-serif;
+  color: white;
+  font-size: medium;
+}
+
+#title1 {
+  font-family: 'Archivo Black', sans-serif;
+  color: #0f0f0f;
+}
+
+#slogan1 {
+  font-family: 'Tenor Sans', sans-serif;
+  color: #0f0f0f;
+}
+
+#nav-about {
+  margin-top: 15px;
+}
+
+#nav-services {
+  margin-top: 15px;
+}
+
+#nav-testimonials {
+  margin-top: 15px;
+}
+
+#nav-contact {
+  margin-top: 15px;
+}
+
+#learnmore {
+  font-family: 'Tenor Sans', sans-serif;
+}
+#summary1 {
+  font-family: 'Tenor Sans', sans-serif;
+}
+
+p, h4 {
+  font-family: 'Tenor Sans', sans-serif;
+}
+
+h1, h2, h3, h5 {
+  font-family: 'Archivo Black', sans-serif;
 }
